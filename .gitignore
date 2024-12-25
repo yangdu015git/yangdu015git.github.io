@@ -1,2 +1,4 @@
 .DS_store
 READ_ME.md
+.jekyll-cache
+.tweet-cache
