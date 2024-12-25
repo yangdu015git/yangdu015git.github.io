@@ -18,6 +18,7 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+readings: true
 ---
 
 Hi there, I am a Senior Machine Learning Engineer at Nvidia. My work at Nvidia involves building LLM-powered solutions to optimize enterprise AI and automate IT service management. 
