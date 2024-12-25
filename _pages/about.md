@@ -24,3 +24,4 @@ readings: true
 Hi there, I am a Senior Machine Learning Engineer at Nvidia. My work at Nvidia involves building LLM-powered solutions to optimize enterprise AI and automate IT service management. 
 
 Previously, I finished my PhD at the University of Illinois, Urbana-Champaign from the department of Educational Psychology, with a focus on [measurement and statistics](https://education.illinois.edu/edpsy/programs-degrees/queries). My primary research pertains to the use of latent variable modeling, statistical/machine learning, and other quantitative methods to solve practical problems in educational and psychological testing. I am particularly interested in Bayesian change-point detection, test security, latent trait modeling, and response time modeling. 
+
